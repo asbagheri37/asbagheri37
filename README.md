@@ -34,3 +34,5 @@ I have a Bachelor's degree in **English Translation** and several years of exper
 ## 📫 Interests
 
 ☕ Specialty Coffee • 🔬 Research • 🚀 Innovation • 📈 Business Development • 🎯 Customer Experience
+
+![Profile views](https://komarev.com/ghpvc/?username=asbagheri37)
