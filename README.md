@@ -1,3 +1,6 @@
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/asbagheri37/) 
+
+
 # Hi, I'm Amir Saleh Bagheri <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30">  
 
 ### Research & Development Executive | Specialty Coffee | English Translator
