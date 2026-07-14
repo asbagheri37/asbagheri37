@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi, I'm Amir Saleh Bagheri 👋
 
-<!--
-**asbagheri37/asbagheri37** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Research & Development Executive | Specialty Coffee | English Translator
 
-Here are some ideas to get you started:
+I have a Bachelor's degree in **English Translation** and several years of experience as a freelance translator. My career later shifted into the specialty coffee industry, where I combine research, product development, and coffee expertise to improve products and customer experiences.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💼 Experience
+
+| Role | Company | Focus |
+|------|---------|-------|
+| Research & Development Executive | **Chakad Coffee** | Coffee innovation, brewing methods, product development, supply chain, quality improvement |
+| Sales Manager & Coffee Instructor | **Pharsan Kamnoosh** | Sales, coffee training, customer consulting |
+| Barista | **Sam Coffee Roasters** | Espresso, manual brewing, specialty coffee |
+| Freelance Translator | Self-employed | English ↔ Persian translation & localization |
+
+## 🛠 Tech & Professional Skills
+
+| Coffee | Business | Languages |
+|---------|----------|-----------|
+| Espresso | R&D | English |
+| Manual Brewing | Product Development | Persian |
+| Sensory Evaluation | Market Research | German (Learning) |
+| Brewing Methods | Process Improvement | |
+| Coffee Innovation | Supply Chain | |
+
+## 🌱 Currently Learning
+
+- Brand Management
+- Business Systems
+- Process Design
+- Data Analysis
+- German
+
+## 📫 Interests
+
+☕ Specialty Coffee • 🔬 Research • 🚀 Innovation • 📈 Business Development • 🎯 Customer Experience
