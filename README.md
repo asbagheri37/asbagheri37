@@ -1,4 +1,4 @@
-# Hi, I'm Amir Saleh Bagheri 👋
+# Hi, I'm Amir Saleh Bagheri <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30">  
 
 ### Research & Development Executive | Specialty Coffee | English Translator
 
